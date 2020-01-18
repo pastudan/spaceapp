@@ -8,7 +8,7 @@ A sample deployable app for demonstrating the power of kubernetes. Live tracks a
 
 ## Deployment
 
-`npx deploy-to-kube`
+`npx deploy-node-app`
 
 ```
 port: 8000
